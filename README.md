@@ -1,3 +1,6 @@
+# 👩🏻‍💻 Yasmin Angel
+
+**`Estudante de Python`**
 
 
 ### 📊 Estatísticas
